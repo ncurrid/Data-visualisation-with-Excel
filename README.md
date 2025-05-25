@@ -52,3 +52,10 @@ In the final stage, we focused on:
 - Linking each result directly to the client’s objectives, ensuring that the analysis supported decision-making.
 
 - Preparing a written report and presentation slides that avoid technical jargon. Since the client is not from a technical background, we prioritised clear and simple explanations.
+
+# Tools & resources
+Microsoft Excel
+
+Microsoft PowerPoint
+
+[Openclassrooms : Développez votre culture des données] (https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees)
