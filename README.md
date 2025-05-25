@@ -44,7 +44,7 @@ Building graphs and charts based on pivot table outputs, ensuring the visualisat
 
 - Using different types of visualizations (e.g., bar charts, pie charts, line graphs) depending on the nature of the data and the insights to be communicated.
 
-## 4. Present of ther results to the Client
+## 4. Presentation of the results to the Client
 In the final stage, we focused on:
 
 - Selecting the most relevant and impactful results to present.
