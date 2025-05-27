@@ -31,7 +31,7 @@ We began by cleaning and exploring the Primero Bank database. This involved:
 
 The purpose was to identify patterns in customer behavior, especially among those who left the bank, and to estimate the proportion of current customers at risk of leaving.
 
-## 3. Data visualisation
+## 3. Created data visualisations
 To support our findings, we created clear and effective visualisations, making it easier for stakeholders to interpret the results. Our approach included:
 
 Building graphs and charts based on pivot table outputs, ensuring the visualisations were easy to read and interpret by:
@@ -44,7 +44,7 @@ Building graphs and charts based on pivot table outputs, ensuring the visualisat
 
 - Using different types of visualizations (e.g., bar charts, pie charts, line graphs) depending on the nature of the data and the insights to be communicated.
 
-## 4. Presentation of the results to the Client
+## 4. Presentated the results to the Client
 In the final stage, we focused on:
 
 - Selecting the most relevant and impactful results to present.
@@ -53,7 +53,7 @@ In the final stage, we focused on:
 
 - Preparing a written report and presentation slides that avoid technical jargon. Since the client is not from a technical background, we prioritised clear and simple explanations.
 
-# Tools & resources
+# IV Tools & resources
 Microsoft Excel
 
 Microsoft PowerPoint
