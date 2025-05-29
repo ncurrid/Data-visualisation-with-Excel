@@ -58,4 +58,4 @@ Microsoft Excel
 
 Microsoft PowerPoint
 
-[Openclassrooms : Développez votre culture des données] (https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees)
+[Openclassrooms : Développez votre culture des données](https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees)
