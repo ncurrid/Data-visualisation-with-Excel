@@ -32,30 +32,25 @@ I began by cleaning and exploring the Primero Bank database. This involved:
 The purpose was to identify patterns in customer behavior, especially among those who left the bank, and to estimate the proportion of current customers at risk of leaving.
 
 ## 3. Created data visualisations
-To support my findings, I created clear and effective visualisations, making it easier for stakeholders to interpret the results. My approach included:
+To support my findings, I created stakeholder-friendly visualisations based on pivot table outputs, ensuring they were easy to read and interpret by:
 
-Building graphs and charts based on pivot table outputs, ensuring the visualisations were easy to read and interpret by:
+- Using clear titles and legends,
 
-- Using clear titles and legends
+- Labeling axes with understandable terms,
 
-- Labeling axes with understandable terms
+- Applying contrasting colors to highlight key data,
 
-- Applying contrasting colors to highlight key data
+- Using different types of visualisations (eg: bar charts, pie charts, line graphs) depending on the nature of the data and the insights to be communicated.
 
-- Using different types of visualizations (e.g., bar charts, pie charts, line graphs) depending on the nature of the data and the insights to be communicated.
-
-## 4. Presentated the results to the Client
+## 4. Presentated the results to Primero Bank
 In the final stage, I focused on:
 
-- Selecting the most relevant and impactful results to present.
+- Selecting the most relevant and impactful results to present,
 
-- Linking each result directly to the client’s objectives, ensuring that the analysis supported decision-making.
+- Linking each result directly to the client’s objectives, ensuring that the analysis supported decision-making,
 
 - Preparing a written report and presentation slides that avoid technical jargon. Since the client is not from a technical background, I prioritised clear and simple explanations.
 
-# IV Tools & resmyces
+# Tools
 Microsoft Excel
-
-Microsoft PoIrPoint
-
-[Openclassrooms : Développez votre culture des données](https://openclassrooms.com/fr/courses/7869811-developpez-votre-culture-des-donnees)
+Microsoft Power Point
