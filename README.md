@@ -32,7 +32,7 @@ I began by cleaning and exploring the Primero Bank database. This involved:
 The purpose was to identify patterns in customer behavior, especially among those who left the bank, and to estimate the proportion of current customers at risk of leaving.
 
 ## 3. Created data visualisations
-To support My findings, I created clear and effective visualisations, making it easier for stakeholders to interpret the results. My approach included:
+To support my findings, I created clear and effective visualisations, making it easier for stakeholders to interpret the results. My approach included:
 
 Building graphs and charts based on pivot table outputs, ensuring the visualisations were easy to read and interpret by:
 
