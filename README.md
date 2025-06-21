@@ -23,9 +23,9 @@ In this initial phase, I focused on understanding:
 ## 2. Transformed data into information
 I began by cleaning and exploring the Primero Bank database. This involved:
 
-- Data cleaning: Handling missing values, standardising formats, and removing duplicates,
+- Data cleaning: handling missing values, standardising formats, and removing duplicates,
 
-- Data visualisation: Creating exploratory visualisations to uncover initial patterns or trends,
+- Data visualisation: creating exploratory visualisations to uncover initial patterns or trends,
 
 - Data analysis using a range of tools and techniques, such as: statistical functions, filters, aggregations, pivot tables.
 
